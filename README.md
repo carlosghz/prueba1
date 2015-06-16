@@ -1,3 +1,4 @@
+rama paralela
 #pru
 esto es para ver conflictos
 
@@ -18,6 +19,6 @@ esto es para ver conflictos
 *****************
 *
 *
-*
+*w
 *
 esto se lo añadimos luego
