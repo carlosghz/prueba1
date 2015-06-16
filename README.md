@@ -1,4 +1,4 @@
-#prueba2
+#pru
 esto es para ver conflictos
 
 *
@@ -10,7 +10,7 @@ esto es para ver conflictos
 ***********
 
 *
-*
+*lityvliyoi -ñlk
 *
 
 *
